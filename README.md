@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Joyanne!
 
-<!--
-**joyannema/joyannema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently a Computer Science & Biology student at McGill University interested in
+Machine Learning, Artificial Intelligence, Data Science, and Software Engineering.
 
-Here are some ideas to get you started:
+I enjoy building data focused solutions that solve real world problems and create meaningful impact for users!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Revaive – AI-powered cognitive recovery platform
+- Pharmahacks - ML pipeline for toxicity prediction
+- BioXP – Bioinformatics data visualization platform
+
+## Let's Connect
+LinkedIn: www.linkedin.com/in/joyanne-ma
