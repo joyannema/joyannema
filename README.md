@@ -6,7 +6,7 @@ Machine Learning, Artificial Intelligence, Data Science, and Software Engineerin
 I enjoy building data focused solutions that solve real world problems and create meaningful impact for users!
 
 ## Featured Projects
-- Revaive – AI-powered cognitive recovery platform
+- Revaive – AI-powered POD cognitive recovery platform
 - Pharmahacks - ML pipeline for toxicity prediction
 - BioXP – Bioinformatics data visualization platform
 
